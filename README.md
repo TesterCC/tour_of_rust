@@ -2,6 +2,8 @@
 
 https://tourofrust.com/ 的联系demo，快速熟悉rust基本语法
 
+After learning, Reading https://doc.rust-lang.org/stable/book/  (B站有该书配套视频)
+
 ## 运行问题
 
 ### 1.使用IDE

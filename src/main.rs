@@ -1,16 +1,17 @@
 /*
-https://tourofrust.com/08_zh-cn.html
-https://tourofrust.com/08_en.html
+https://tourofrust.com/11_zh-cn.html
+https://tourofrust.com/11_en.html
 
-数组 Arrays
+返回空值  Returning Nothing
 
-数组是所有相同类型数据元素的固定长度集合。
+如果没有为函数指定返回类型，它将返回一个空的元组，也称为单元。
 
-一个数组的数据类型是 [T;N]，其中 T 是元素的类型，N 是编译时已知的固定长度。
+一个空的元组用 () 表示。
 
-可以使用 [x] 运算符提取单个元素，其中 x 是所需元素的 usize 索引（从 0 开始）。
+直接使用 () 的情况相当不常见。但它经常会出现（比如作为函数返回值），所以了解其来龙去脉非常重要。
 */
 
-fn main() {
 
-}
+
+fn main() {}
+
