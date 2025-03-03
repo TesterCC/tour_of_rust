@@ -15,11 +15,22 @@ fn main() {
     let nums: [i32; 3] = [1, 2, 3];
     // Rust 数组的长度是固定的，不能动态调整。Rust 的字符串字面量 &str 是字符串切片，因此数组的类型是 [&str; 3]
     let languages= ["python", "rust", "go", "java", "javascript", "php"];
+
+    let arr2: [u8; 1024] = [0u8; 1024];  //  长度为1024的0u8
+
     println!("{:?}", nums);   // [1,2,3]
     println!("{}", nums[1]);  // 2
-    println!("{}", nums[2]);  //
+    println!("{}", nums[2]);  // 3
 
     // {:?} 用于打印数组的调试信息
     println!("{:?}", languages);
     println!("second is {}, third is {}", languages[1], languages[2]);
+
+    println!("{:?}", arr2);  // [0,0,...,0,0]  // 1024
+
+    // 数组遍历      println!("{:?}", arr2);  // [0,0,...,0,0]  1024个0u8
+    for x in languages {
+        print!("{}, ", x);
+    }
+
 }
