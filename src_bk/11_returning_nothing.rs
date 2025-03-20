@@ -26,6 +26,8 @@ fn main() {
     let b = make_nothing2();
 
     // 打印a和b的debug字符串，因为很难去打印空 {:?} 用于打印调试信息
+    // 在 Rust 中，{:?} 是 调试（debug）格式化 的占位符，用于 println!() 打印实现了 Debug trait 的类型。
+    // 它用于 打印结构体、枚举、元组等复杂数据类型，方便调试。
     println!("The value of a: {:?}", a);
     println!("The value of b: {:?}", b);
 
