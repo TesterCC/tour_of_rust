@@ -1,18 +1,20 @@
 /*
-https://tourofrust.com/20_zh-cn.html
-https://tourofrust.com/20_en.html
+https://tourofrust.com/23_zh-cn.html
+https://tourofrust.com/23_en.html
 
-从块表达式返回值
+Chapter 3 - Basic Data Structure Types (start)  // todo
 
-if，match，函数，以及作用域块都有一种返回值的独特方式。
+结构体
 
-如果 if、match、函数或作用域块中的最后一条语句是不带 ; 的表达式， Rust 将把它作为一个值从块中返回。// todo
+一个 struct 就是一些字段的集合。
 
-这是一种创建简洁逻辑的好方法，它返回一个 可以放入新变量的值。
+字段是一个与数据结构相关联的数据值。它的值可以是基本类型或结构体类型。
 
-注意，它还允许 if 语句像简洁的三元表达式一样操作。
+它的定义就像给编译器的蓝图，告诉编译器如何在内存中布局彼此相邻的字段。
+
 */
 
-fn main() {
 
+fn main() {
+    
 }
