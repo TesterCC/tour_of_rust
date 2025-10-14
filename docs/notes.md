@@ -59,13 +59,41 @@ ext:
 总而言之，掌握 Rust 可以提升您的技能，并在网络安全行业中提升您的竞争优势。它对安全性、性能和并发性的关注与现代网络安全挑战的需求完美契合，使其成为该领域专业人士的理想语言选择。
 
 
-## Rust SecDev项目：
+## Rust SecDev项目
 
-https://github.com/bee-san/RustScan
+https://github.com/bee-san/RustScan     # 端口快速扫描
 https://github.com/epi052/feroxbuster   # 内容发现
 https://github.com/AFLplusplus/LibAFL  # 模糊测试
 https://github.com/m4b/goblin     # 二进制分析
 https://github.com/kpcyrd/sniffglue  # 安全的多线程数据包嗅探器
 
 
+## Rust Roadmap for Cyber Security
 
+### MODULE 1 : <基础>
+
+- [Rust Book with Quiz](https://rust-book.cs.brown.edu/ch00-00-introduction.html): An unofficial documentation (an copy of Rust Book ) that has quizzes and question per topic ( Recommend Document).
+
+布朗大学认知实验，基于官方的Rust Book的内容做的Rust入门课程。
+
+- [Rustlings](https://github.com/rust-lang/rustlings/)
+
+- 对于练习，我强烈推荐 Rustlings，这是一个通过解决问题来教授 Rust 的 Rust 程序“通过实践学习 Rust”。
+
+### MODULE 2 : <基础\中级>
+
+### MODULE 3: <中级\高级>
+
+### Additional
+
+- OffensiveRust: Rust Weaponization for Red Team Engagements.
+  https://github.com/trickster0/OffensiveRust
+
+- black-hat-rust
+  https://github.com/skerkour/black-hat-rust
+
+- awesome-rust-security
+  https://github.com/osirislab/awesome-rust-security#offensive-security-and-red-teaming
+
+- Security Related Rust Projects
+  https://github.com/rust-secure-code/projects
