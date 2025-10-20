@@ -2,7 +2,7 @@
 https://tourofrust.com/08_zh-cn.html
 https://tourofrust.com/08_en.html
 
-数组 Arrays -- 类似Python list
+数组 Arrays -- 类似Python list, java的array
 
 数组是所有相同类型数据元素的固定长度集合。
 
