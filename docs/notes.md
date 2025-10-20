@@ -32,7 +32,9 @@ https://5mukx.site/blog/programming-for-infosec
 
 ### Rust for Cyber Security and Red Teaming
 
-https://infosecwriteups.com/rust-for-cyber-security-and-red-teaming-275595d3fdec?gi=819e2a0c152b
+ref:
+
+[Rust for Cyber Security and Red Teaming](https://infosecwriteups.com/rust-for-cyber-security-and-red-teaming-275595d3fdec)
 
 ext:
 
@@ -82,7 +84,30 @@ https://github.com/kpcyrd/sniffglue  # 安全的多线程数据包嗅探器
 
 ### MODULE 2 : <基础\中级>
 
+p.s. 内容有点多，选择性学习吧
+
+- [Microsoft’s Path](https://learn.microsoft.com/en-us/training/browse/) - 虽然有人强烈推荐，但这个需要自己找资源。 An complete path to become strong at Basics and Intermediate. ( Highly Recommend )
+
+- [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/) - An Mini Documentation that Explains Rust with runnable examples that illustrate various Rust concepts and standard libraries ( Recommend )
+
+- [Rust Macros](https://earthly.dev/blog/rust-macros/#:~:text=In%20Rust%2C%20macros%20are%20pieces,of%20a%20macro%20is%20println!%20) - Practical Examples and Best Practices. ( Highly Recommend )
+
+- [Asynchronous Programming](https://rust-lang.github.io/async-book/) - Learn the Basics of multi-threading programming. ( Highly Recommend )
+
+- [Windows API](https://kennykerr.ca/rust-getting-started/) - Learn how to implement windows API with Rust. ( Highly Recommend )
+
+
 ### MODULE 3: <中级\高级>
+
+进入底层开发阶段
+
+- [Writing OS in Rust](https://os.phil-opp.com/) - Since you do not need to write the Kernel in rust but read the fundamentals like Heap Allocation , Async/Await , Paging . It the most common thing to learn in rust if you are coding an system level tools and projects like `Mimikaz` etc.
+
+- [Rust Atomics and Locks](https://marabos.nl/atomics/preface.html) - Learn low-level concurrency looks like from a Rust perspective. Great book to learn about threads ,mutexes, references , interior mutability , memory ordering etc.
+
+- [OffensiveRust](https://github.com/trickster0/OffensiveRust)
+
+- Web框架：[Actix](https://actix.rs/)（持续迭代中，优先学这个） 或 [Rocket](https://rocket.rs/)（进一年未更新，2025年最近一次更新是2024年5月）
 
 ### Additional
 
@@ -97,3 +122,8 @@ https://github.com/kpcyrd/sniffglue  # 安全的多线程数据包嗅探器
 
 - Security Related Rust Projects
   https://github.com/rust-secure-code/projects
+
+## Top Books for Rust to Master
+
+## Extra Tips for Learning Rust
+
