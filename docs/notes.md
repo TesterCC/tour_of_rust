@@ -123,7 +123,16 @@ p.s. 内容有点多，选择性学习吧
 - Security Related Rust Projects
   https://github.com/rust-secure-code/projects
 
-## Top Books for Rust to Master
+### Top Books for Rust to Master
 
-## Extra Tips for Learning Rust
+- [**Black Hat Rust**](https://kerkour.com/black-hat-rust) by Sylvain Kerkour -- 必看
+- [**Network Programming with Rust**](https://www.amazon.com/Network-Programming-Rust-memory-safety-concurrency/dp/1788624890) by Abhishek Chanda
+- [**Zero to Production**](https://www.zero2prod.com/index.html?country=India&discount_code=SEA60) in Rust by Luca Palmieri  -- 有中文版，而且推荐者较多
+- [**Command Line Rust**](https://www.amazon.com/Command-Line-Rust-Ken-Youens-Clark-ebook/dp/B09QFQ3Y64?ref_=ast_author_dp) by y [Ken Youens-Clark](https://www.amazon.in/Ken-Youens-Clark/e/B08DDCNNL3/ref=dp_byline_cont_book_1)
+- [**Hands-On System Programming with Rust**](https://www.goodreads.com/book/show/58429656-hands-on-systems-programming-with-rust) by Ken Youens-Clark
+- [**Rust Servers, Services and Apps**](https://www.amazon.com/Rust-Servers-Services-Prabhu-Eshwarla/dp/1617298603) by Prabhu Eshwarla
+- [**Rust in Action**](https://www.amazon.com/Rust-Action-Tim-McNamara/dp/1617294551) by Tim McNamara
+- [**Practical System Programming**](https://www.amazon.com/Practical-System-Programming-Rust-Developers/dp/1800560966) for Rust Developers by by [Prabhu Eshwarla](https://www.amazon.com/Prabhu-Eshwarla/e/B08RBSMC5F/ref=dp_byline_cont_book_1)
+
+### Extra Tips for Learning Rust
 
